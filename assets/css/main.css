@@ -3576,7 +3576,9 @@ section,
   font-size: 14px;
 }
 
-/* Header logo size */
+/* Header logo size (force) */
 .logo img {
-  max-height: 45px;
+  max-height: 45px !important;
+  width: auto !important;
 }
+
