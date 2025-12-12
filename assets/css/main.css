@@ -3575,3 +3575,8 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
+
+/* Header logo size */
+.logo img {
+  max-height: 45px;
+}
