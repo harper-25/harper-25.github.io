@@ -3591,4 +3591,7 @@ section,
   color: #2c3e50;
 }
 
+#clients .swiper-wrapper { display: flex; align-items: center; }
+#clients .swiper-slide { flex-shrink: 0; width: auto; display: flex; justify-content: center; align-items: center; }
+
 
