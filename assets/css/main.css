@@ -3603,6 +3603,10 @@ section,
   margin-top: 0px;
 }
 
+.footer .footer-top,
+.footer .copyright {
+  background-color: #f5f6f8;
+}
 
 
 
