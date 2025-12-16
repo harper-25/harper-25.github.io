@@ -3603,9 +3603,14 @@ section,
   margin-top: 0px;
 }
 
+.footer {
+  background-color: #f5f6f8;
+}
+
+
 .footer .footer-top,
 .footer .copyright {
-  background-color: #f5f6f8;
+  background-color: transparent;
 }
 
 
